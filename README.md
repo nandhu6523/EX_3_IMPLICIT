@@ -32,7 +32,7 @@ Program to print the text “Implicitintent”.
 Developed by:Nandhini S
 Registeration Number :212222220028
 */
-MainActivity.Java:
+## MainActivity.Java:
 package com.example.Exp_3;
 
 import android.content.Intent;
@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-Activitymain.xml:
+## Activitymain.xml:
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -93,8 +93,11 @@ Activitymain.xml:
 
 ## OUTPUT
 
+![Screenshot 2024-09-17 184719](https://github.com/user-attachments/assets/3fe6a31c-e6b4-43c7-b1b7-bc7e12a6a696)
 
 
+![Screenshot 2024-09-17 184737](https://github.com/user-attachments/assets/892d3188-516a-4b2d-aac4-b70eeed5bcbb)
+![Screenshot 2024-09-17 184803](https://github.com/user-attachments/assets/59f43901-46a1-47d5-8032-762d0b699365)
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the web page using Android Studio was developed and executed successfully.
